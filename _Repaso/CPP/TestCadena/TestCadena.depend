@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622916260 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\tcp\tcp-cpp-2021-1-m\testcadena\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"../Cadena/Cadena.h"
+
+1622912914 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\tcp\tcp-cpp-2021-1-m\cadena\cadena.h
+	<iostream>
+	<vector>
+

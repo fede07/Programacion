@@ -1,0 +1,29 @@
+Hardware: las partes de un ordenador que pueden ser pateadas. Jeff Pesis
+La mayoria de los buenos programadores programan no porque esperan que les
+paguen o que el publico los adore, sino porque programar es divertido. Linus Torvalds
+El optimismo es un riesgo laboral de la programacion; el feedback
+es el tratamiento. Kent Beck
+Controlar la complejidad es la esencia de la programacion. Brian Kernigan
+Cuidate de los programadores que llevan destornillador. Leonard Brandwein
+Es mejor esperar a que un desarrollador productivo este disponible que
+esperar a que el primer desarrollador disponible
+sea productivo. Steve C. McConnell
+Escribir en C o C++ es como utilizar una sierra electrica sin ningun
+tipo de proteccion. Bob Gray
+El hardware es lo que hace a una maquina rapida; el software es lo que
+hace que una maquina rapida se vuelva lenta.Craig Bruce
+Desde el punto de vista de un programador, el usuario no
+es mas que un periferico que teclea cuando se le envia
+una peticion de lectura. P. Williams
+El uso de COBOL dana la mente. Su ensenanza deberia ser
+considerada como un ataque criminal.E. W. Dijkstra
+Antes de que un software sea reutilizable deberia ser utilizable
+Medir el progreso del desarrollo de software por líneas de codigo
+es como medir el progreso de la construccion de un avion por su peso. Bill Gates
+Iterar es humano la recursividad es divina. L. Peter Deutsch
+Una vez un ordenador me vencio jugando al ajedrez, pero
+no me opuso resistencia cuando pasamos al kick boxing.Emo Philips
+No temo a los ordenadores; lo que temo es quedarme sin ellos. Isaac Asimov
+PHP es un mal menor perpetrado y creado por amaterus incompetentes, mientras
+que Perl es un gran e insidioso mal perpetrado por habiles pero
+pervertidos profesionales. Jon Ribbens

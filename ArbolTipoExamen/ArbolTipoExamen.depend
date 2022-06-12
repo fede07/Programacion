@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1593709364 source:c:\users\pabli\git\programacion_clase\bib\arbol.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"Arbol.h"
+	"butils.h"
+	"Arbol_pan.h"
+
+1593644040 .h"
+
+1593708351 c:\users\pabli\git\programacion_clase\bib\arbol.h
+
+1593531572 c:\users\pabli\git\programacion_clase\bib\butils.h
+	<stdlib.h>
+	<stdio.h>
+	"Arbol.h"
+
+1593646064 
+
+1593554548 source:c:\users\pabli\git\programacion_clase\bib\butils.c
+	"butils.h"
+	<stdio.h>
+	<string.h>
+	"../ArbolClase/alumnos.h"
+
+1593554548 lase/alumnos.h"
+
+1593553790 c:\users\pabli\git\programacion_clase\arbolclase\alumnos.h
+	<stdlib.h>
+
+1593553796 source:c:\users\pabli\git\programacion_clase\arboltipoexamen\alumnos.c
+	"alumnos.h"
+	<stdio.h>
+
+1593646064 c:\users\pabli\git\programacion_clase\arboltipoexamen\alumnos.h
+	<stdlib.h>
+
+1593710043 source:c:\users\pabli\git\programacion_clase\arboltipoexamen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"menu.h"
+	"../bib/Arbol.h"
+	"../bib/butils.h"
+	"alumnos.h"
+
+1593646540 "
+
+1593452018 c:\users\pabli\git\programacion_clase\arboltipoexamen\menu.h
+
+1593455893 source:c:\users\pabli\git\programacion_clase\arboltipoexamen\menu.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+
+1593554548 source:/media/pablo/Acer/Users/pabli/git/Programacion_clase/bib/butils.c
+	"butils.h"
+	<stdio.h>
+	<string.h>
+	"../ArbolClase/alumnos.h"
+
+1593531572 /media/pablo/Acer/Users/pabli/git/Programacion_clase/bib/butils.h
+	<stdlib.h>
+	<stdio.h>
+	"Arbol.h"
+
+1593708351 /media/pablo/Acer/Users/pabli/git/Programacion_clase/bib/Arbol.h
+
+1593553790 /media/pablo/Acer/Users/pabli/git/Programacion_clase/ArbolClase/alumnos.h
+	<stdlib.h>
+
+1593553796 source:/media/pablo/Acer/Users/pabli/git/Programacion_clase/ArbolTipoExamen/alumnos.c
+	"alumnos.h"
+	<stdio.h>
+
+1593646064 /media/pablo/Acer/Users/pabli/git/Programacion_clase/ArbolTipoExamen/alumnos.h
+	<stdlib.h>
+
+1593455893 source:/media/pablo/Acer/Users/pabli/git/Programacion_clase/ArbolTipoExamen/menu.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+
+1593452018 /media/pablo/Acer/Users/pabli/git/Programacion_clase/ArbolTipoExamen/menu.h
+
+1593710043 source:/media/pablo/Acer/Users/pabli/git/Programacion_clase/ArbolTipoExamen/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"menu.h"
+	"../bib/Arbol.h"
+	"../bib/butils.h"
+	"alumnos.h"
+
+1593709364 source:/media/pablo/Acer/Users/pabli/git/Programacion_clase/bib/Arbol.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"Arbol.h"
+	"butils.h"
+	"Arbol_pan.h"
+
+1593783426 source:c:\users\pabli\git\programacion_clase\aarboltipoexamen\alumnos.c
+	"alumnos.h"
+	<stdio.h>
+
+1625589348 c:\users\pabli\git\programacion_clase\aarboltipoexamen\alumnos.h
+	<stdlib.h>
+
+1625589284 source:c:\users\pabli\git\programacion_clase\aarboltipoexamen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"menu.h"
+	"alumnos.h"
+
+1593452018 c:\users\pabli\git\programacion_clase\aarboltipoexamen\menu.h
+
+1593455893 source:c:\users\pabli\git\programacion_clase\aarboltipoexamen\menu.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+
+1625588496 source:c:\users\fede0\documents\programacion\arbol\arbol.c
+	"arbol.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1625588574 c:\users\fede0\documents\programacion\arbol\arbol.h
+
+1593783426 source:c:\users\fede0\documents\programacion\arboltipoexamen\alumnos.c
+	"alumnos.h"
+	<stdio.h>
+
+1625589348 c:\users\fede0\documents\programacion\arboltipoexamen\alumnos.h
+	<stdlib.h>
+
+1593455893 source:c:\users\fede0\documents\programacion\arboltipoexamen\menu.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+
+1593452018 c:\users\fede0\documents\programacion\arboltipoexamen\menu.h
+
+1625593754 source:c:\users\fede0\documents\programacion\arboltipoexamen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"menu.h"
+	"alumnos.h"
+	"utiles.h"
+
+1625593005 source:c:\users\fede0\documents\programacion\arboltipoexamen\utiles.c
+	"utiles.h"
+	"../Arbol/arbol.h"
+	<stdio.h>
+
+1625592987 c:\users\fede0\documents\programacion\arboltipoexamen\utiles.h
+	"../Arbol/arbol.h"
+	"alumnos.h"
+

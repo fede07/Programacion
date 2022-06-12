@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\fede0\documents\programacion\coladinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1623094854 source:c:\users\fede0\documents\programacion\coladinamica\piladin.c
+	"colaDin.h"
+	<stdlib.h>
+	<string.h>
+
+1622580947 c:\users\fede0\documents\programacion\coladinamica\coladin.h
+

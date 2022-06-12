@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1618683735 source:c:\users\fede0\documents\programacion\fechasatp\main.cpp
+	<iostream>
+	<stdlib.h>
+	"fecha.h"
+
+1618683605 source:c:\users\fede0\documents\programacion\fechasatp\fecha.cpp
+	"fecha.h"
+	<iostream>
+
+1618683718 c:\users\fede0\documents\programacion\fechasatp\fecha.h
+

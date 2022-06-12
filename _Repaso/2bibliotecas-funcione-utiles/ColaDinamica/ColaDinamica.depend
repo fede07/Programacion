@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\user\desktop\progra\coladinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1622590717 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\coladinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1622582732 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\coladinamica\cola.c
+	"cola.h"
+	<string.h>
+	<stdlib.h>
+
+1622581454 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\coladinamica\cola.h
+

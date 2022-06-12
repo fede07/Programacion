@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1622853097 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\cesar\cesar.c
+	<stdio.h>
+	"cesar.h"
+
+1622853159 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\cesar\cesar.h
+
+1622853207 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\cesar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cesar.h"
+

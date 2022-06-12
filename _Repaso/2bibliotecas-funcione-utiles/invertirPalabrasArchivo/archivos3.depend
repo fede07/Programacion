@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1620171544 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\archivos3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"archivos.h"
+
+1620354718 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\archivos3\archivos.h
+	<stdio.h>
+
+1620411801 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\archivos3\archivos3.c
+	"archivos.h"
+	<stdio.h>
+
+1622772579 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\invertirpalabrasarchivo\archivos3.c
+	"archivos.h"
+	<stdio.h>
+
+1620354718 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\invertirpalabrasarchivo\archivos.h
+	<stdio.h>
+
+1620171544 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\invertirpalabrasarchivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"archivos.h"
+

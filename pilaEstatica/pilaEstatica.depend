@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1622568919 source:c:\users\fede0\documents\programacion\pilaestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaEstatica.h"
+
+1622227483 source:c:\users\fede0\documents\programacion\pilaclase_21_5\piladinamica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilaDinamica.h"
+
+1622227492 c:\users\fede0\documents\programacion\pilaclase_21_5\piladinamica.h
+
+1622412477 source:c:\users\fede0\documents\programacion\pilaestatica\pilaestatica.c
+	<string.h>
+	"pilaEstatica.h"
+
+1622569033 c:\users\fede0\documents\programacion\pilaestatica\pilaestatica.h
+

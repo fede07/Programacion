@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1618957229 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\vectores\vectores\vectores.c
+	<stdio.h>
+	"vectores.h"
+
+1618956716 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\vectores\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+
+1618956338 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\vectores\vectores\vectores.h
+
+1623294999 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+
+1623294655 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\vectores\vectores.h
+
+1623294954 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\vectores\vectores.c
+	<stdio.h>
+	"vectores.h"
+

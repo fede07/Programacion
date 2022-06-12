@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1620431834 source:c:\users\fede0\documents\programacion\camposvar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lotes.h"
+
+1620430666 source:c:\users\fede0\documents\programacion\camposvar\lotes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lotes.h"
+
+1620429060 c:\users\fede0\documents\programacion\camposvar\lotes.h
+

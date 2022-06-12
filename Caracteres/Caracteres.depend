@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1623203283 source:c:\users\fede0\documents\programacion\caracteres\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"cadena.h"
+	"C:\Users\fede0\Documents\Programacion\menuGenerico\menu.h"
+
+1623203264 source:c:\users\fede0\documents\programacion\caracteres\cadena.c
+	<stdio.h>
+	"cadena.h"
+
+1623196098 c:\users\fede0\documents\programacion\caracteres\cadena.h
+
+1619198993 source:c:\users\fede0\documents\programacion\menugenerico\menu.c
+	<stdlib.h>
+	<stdio.h>
+
+1619198282 c:\users\fede0\documents\programacion\menugenerico\menu.h
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1619894717 source:c:\users\fede0\documents\programacion\simulacionatoi\atoi.c
+
+1619894688 source:c:\users\fede0\documents\programacion\simulacionatoi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1619893270 c:\users\fede0\documents\programacion\simulacionatoi\atoi.h
+

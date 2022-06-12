@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1619205133 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\cadenas\cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cadenas.h"
+
+1619206748 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\cadenas\cadenas\cadenas.h
+
+1619206866 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\cadenas\cadenas\cadenas.c
+	"cadenas.h"
+	<stdio.h>
+
+1622767224 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\cadenas\cadenas.c
+	"cadenas.h"
+	<stdio.h>
+
+1619206748 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\cadenas\cadenas.h
+
+1623015810 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cadenas.h"
+

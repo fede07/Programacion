@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1624307011 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\listacolacirc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaColaCirc.h"
+
+1624306163 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\listacolacirc\listacolacirc.h
+
+1624307413 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\listacolacirc\listacolacirc.c
+	<stdlib.h>
+	<string.h>
+	"listaColaCirc.h"
+

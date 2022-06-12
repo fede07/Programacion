@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1621736439 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\parciales-edas\ea n11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"n11.h"
+
+1621736931 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\parciales-edas\ea n11\n11.c
+	<stdio.h>
+	"n11.h"
+
+1621736411 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\parciales-edas\ea n11\n11.h
+
+1622940552 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\ea n11\n11.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"n11.h"
+
+1622940053 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\ea n11\n11.h
+
+1622940087 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\ea n11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"n11.h"
+

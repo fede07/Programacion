@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1623290572 source:c:\users\fede0\documents\programacion\ejerciciosvectores\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"vectores.h"
+
+1623328467 c:\users\fede0\documents\programacion\ejerciciosvectores\vectores.h
+
+1623290943 source:c:\users\fede0\documents\programacion\ejerciciosvectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"vectores.h"
+
+1623332041 source:c:\users\fede0\documents\programacion\_repaso\ejerciciosvectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"vectores.h"
+
+1623332236 c:\users\fede0\documents\programacion\_repaso\ejerciciosvectores\vectores.h
+
+1623331931 source:c:\users\fede0\documents\programacion\_repaso\ejerciciosvectores\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"vectores.h"
+

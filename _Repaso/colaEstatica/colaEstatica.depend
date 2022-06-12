@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\fede0\documents\programacion\colaestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1622841333 source:c:\users\fede0\documents\programacion\colaestatica\colaestatica.c
+	"colaEstatica.h"
+	<string.h>
+
+1622841177 c:\users\fede0\documents\programacion\colaestatica\colaestatica.h
+
+1584205420 source:c:\users\fede0\documents\programacion\_repaso\colaestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+

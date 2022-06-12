@@ -1,0 +1,8 @@
+Pepito Feliz|12345678|D|99.999
+Pepita Rica|420|R|400
+Pepito Vacio||V|0
+Feliz|Pepito|D|99.999
+Mario Feliz|1234|D|yo
+Pepito Soltero|65|so|99.999
+15613456|23456789|A|10
+Pepito Triste

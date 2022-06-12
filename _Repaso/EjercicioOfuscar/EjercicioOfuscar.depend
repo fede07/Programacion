@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1620414479 source:c:\users\fede0\documents\programacion\codificacioncesar\codificaciont.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1620414895 source:c:\users\fede0\documents\programacion\ejercicioofuscar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"codificacionT.h"
+
+1620414479 c:\users\fede0\documents\programacion\ejercicioofuscar\codificaciont.h
+
+1620421702 source:c:\users\fede0\documents\programacion\ejercicioofuscar\codificaciont.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

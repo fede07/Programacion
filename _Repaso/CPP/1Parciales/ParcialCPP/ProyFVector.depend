@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1543951611 source:c:\users\laboratorios\desktop\bouza, facundo\parcialcpp\fvector.cpp
+	"FVector.h"
+
+1543949451 c:\users\laboratorios\desktop\bouza, facundo\parcialcpp\fvector.h
+	<iostream>
+
+1543951967 source:c:\users\laboratorios\desktop\bouza, facundo\parcialcpp\main.cpp
+	"FVector.h"
+
+1543952940 source:c:\users\luana\desktop\parciales progra\bouza, facundo recup\bouza, facundo\parcialcpp\fvector.cpp
+	"FVector.h"
+
+1543949451 c:\users\luana\desktop\parciales progra\bouza, facundo recup\bouza, facundo\parcialcpp\fvector.h
+	<iostream>
+
+1543951967 source:c:\users\luana\desktop\parciales progra\bouza, facundo recup\bouza, facundo\parcialcpp\main.cpp
+	"FVector.h"
+
+1626047443 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\c++\1parciales\parcialcpp\src\vecexception.cpp
+	"vecException.h"
+
+1626047443 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\c++\1parciales\parcialcpp\include\vecexception.h
+	<string>
+
+1626048130 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\c++\1parciales\parcialcpp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"FVector.h"
+
+1626048591 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\c++\1parciales\parcialcpp\include\fvector.h
+	<iostream>
+	<vector>
+	"vecException.h"
+
+1626048591 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\c++\1parciales\parcialcpp\src\fvector.cpp
+	"FVector.h"
+

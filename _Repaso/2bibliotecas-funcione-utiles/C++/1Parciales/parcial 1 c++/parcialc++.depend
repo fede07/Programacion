@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1623013170 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\1p -1cuatri-cacho\prog_c1_parcial_1_entregable\parcialc++\main.cpp
+	<iostream>
+	"Cadena.h"
+
+1623013049 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\1p -1cuatri-cacho\prog_c1_parcial_1_entregable\parcialc++\src\cadena.cpp
+	<string.h>
+	"Cadena.h"
+
+1623013049 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\1p -1cuatri-cacho\prog_c1_parcial_1_entregable\parcialc++\include\cadena.h
+	<iostream>
+

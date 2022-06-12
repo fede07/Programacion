@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1626038637 source:c:\users\pc\downloads\entregable_2018-07-18\parcial c++\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Carta.h"
+
+1626039031 c:\users\pc\downloads\entregable_2018-07-18\parcial c++\carta.h
+	<iostream>
+	<string.h>
+
+1626039266 source:c:\users\pc\downloads\entregable_2018-07-18\parcial c++\carta.cpp
+	"Carta.h"
+

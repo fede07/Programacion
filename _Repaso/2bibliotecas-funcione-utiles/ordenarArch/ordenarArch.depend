@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1623204278 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\1p -1cuatri-cacho\prog_c1_parcial_1_entregable\ordenararch\ordenararch.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenarArch.h"
+
+1623203567 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\1p -1cuatri-cacho\prog_c1_parcial_1_entregable\ordenararch\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenarArch.h"
+
+1623204358 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\1p -1cuatri-cacho\prog_c1_parcial_1_entregable\ordenararch\ordenararch.h
+

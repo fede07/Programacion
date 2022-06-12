@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1617740586 source:c:\users\fede0\documents\programacion\testabc\testeo_abc\main.c
+	<stdio.h>
+	<stdlib.h>
+

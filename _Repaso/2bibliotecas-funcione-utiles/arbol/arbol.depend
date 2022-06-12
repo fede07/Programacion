@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1626643327 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\arbol\arbol.c
+	"arbol.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1626556149 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\arbol\arbol.h
+	<stdio.h>
+
+1626643996 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+

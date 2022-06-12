@@ -1,0 +1,7 @@
+      10Juan Perez          I4.0 
+      20Florencia Re        I4.0 
+      30Maria Benitez       I7.5 
+      40Victor Gomez        I7.5 
+      50Flavio Gomez        I9.2 
+      70Julieta Beltran     I3.0 
+      90Fernanda Gauna      I9.0 

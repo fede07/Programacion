@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1623283661 source:c:\users\fede0\documents\programacion\fechaspp_practica\main.cpp
+	<iostream>
+	"fecha.h"
+	"fechaexception.h"
+
+1623283707 source:c:\users\fede0\documents\programacion\fechaspp_practica\fecha.cpp
+	"fecha.h"
+	"fechaexception.h"
+
+1623356884 c:\users\fede0\documents\programacion\fechaspp_practica\fecha.h
+	<iostream>
+
+1623283143 source:c:\users\fede0\documents\programacion\fechaspp_practica\fechaexception.cpp
+	"fechaexception.h"
+
+1623283188 c:\users\fede0\documents\programacion\fechaspp_practica\fechaexception.h
+	<string>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1623014120 source:c:\users\fede0\documents\programacion\practicaparcial\estiloparcialpp\cadena.cpp
+	"cadena.h"
+
+1623013906 c:\users\fede0\documents\programacion\practicaparcial\estiloparcialpp\cadena.h
+	<iostream>
+	<string.h>
+
+1623013049 source:c:\users\fede0\documents\programacion\practicaparcial\estiloparcialpp\main.cpp
+	<iostream>
+	"cadena.h"
+

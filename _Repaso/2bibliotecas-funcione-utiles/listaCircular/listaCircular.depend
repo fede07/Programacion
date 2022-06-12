@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1624124359 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\listacircular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaCircular.h"
+
+1624125676 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\listacircular\listacircular.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaCircular.h"
+
+1624124324 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\listacircular\listacircular.h
+

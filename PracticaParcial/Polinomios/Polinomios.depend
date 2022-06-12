@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1627766072 source:c:\users\fede0\documents\programacion\practicaparcial\polinomios\main.c
+	"funciones.h"
+
+1627768488 source:c:\users\fede0\documents\programacion\practicaparcial\polinomios\funciones.c
+	"funciones.h"
+
+1627768347 c:\users\fede0\documents\programacion\practicaparcial\polinomios\funciones.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

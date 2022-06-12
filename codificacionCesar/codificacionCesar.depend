@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1620357181 source:c:\users\fede0\documents\programacion\codificacioncesar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"codificacion.h"
+
+1620359012 source:c:\users\fede0\documents\programacion\codificacioncesar\codificacion.c
+	"codificacion.h"
+	<stdio.h>
+
+1620357364 c:\users\fede0\documents\programacion\codificacioncesar\codificacion.h
+
+1620414479 source:c:\users\fede0\documents\programacion\codificacioncesar\codificaciont.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

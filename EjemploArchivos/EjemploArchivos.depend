@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1620167475 source:c:\users\fede0\documents\programacion\ejemploarchivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../macroReemplazos/macros.h"
+	"archivos.h"
+	"lotesDePrueba.h"
+
+1620158221 c:\users\fede0\documents\programacion\macroreemplazos\macros.h
+
+1620158485 c:\users\fede0\documents\programacion\ejemploarchivos\archivos.h
+
+1620159019 c:\users\fede0\documents\programacion\ejemploarchivos\lotesdeprueba.h
+
+1620158485 source:c:\users\fede0\documents\programacion\ejemploarchivos\archivos.c
+	<stdio.h>
+	<stdlib.h>
+
+1620159684 source:c:\users\fede0\documents\programacion\ejemploarchivos\lotesdeprueba.c
+	<stdio.h>
+	<stdlib.h>
+

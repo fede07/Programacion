@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1622418014 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\pila2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila2.h"
+
+1622418069 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\pila2\pila2.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"pila2.h"
+
+1622236046 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\pila2\pila2.h
+

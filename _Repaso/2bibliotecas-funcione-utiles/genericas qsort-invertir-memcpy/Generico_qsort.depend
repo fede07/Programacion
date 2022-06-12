@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1621611939 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\generico_qsort\generico_qsort.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"Generico_qsort.h"
+
+1621612200 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\generico_qsort\generico_qsort.h
+
+1621612608 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\generico_qsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Generico_qsort.h"
+
+1623198595 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\genericas qsort-invertir-memcpy\generico_qsort.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"Generico_qsort.h"
+
+1623202130 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\genericas qsort-invertir-memcpy\generico_qsort.h
+
+1623201853 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\genericas qsort-invertir-memcpy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Generico_qsort.h"
+

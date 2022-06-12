@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1625615719 source:c:\users\fede0\documents\programacion\listasimple\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSimple.h"
+
+1625615674 source:c:\users\fede0\documents\programacion\listasimple\listasimple.c
+	"listaSimple.h"
+	<stdlib.h>
+	<string.h>
+
+1625614206 c:\users\fede0\documents\programacion\listasimple\listasimple.h
+
+1625615719 source:c:\users\fede0\documents\programacion\_repaso\listasimple\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSimple.h"
+
+1626186510 c:\users\fede0\documents\programacion\_repaso\listasimple\listasimple.h
+

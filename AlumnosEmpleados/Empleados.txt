@@ -1,0 +1,10 @@
+123333/Fernandez/Juana/250
+456666/Garcia/Jose/200
+456798/Gonzalez/Maria/100
+789999/Gonzalez/Maria/300
+000000/Lopez/Francisco/500
+111222/Rodriguez/Luis/800
+321321/Rodriguez/Martin/1100
+654789/Tortuga/Pepito/1300
+889648/Werez/Martin/0
+999854/Zar/Pepita/1200

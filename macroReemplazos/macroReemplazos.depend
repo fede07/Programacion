@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1619474529 source:c:\users\fede0\documents\programacion\macroreemplazos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"normalizar.h"
+
+1619546977 source:c:\users\fede0\documents\programacion\macroreemplazos\normalizar.c
+
+1619474318 c:\users\fede0\documents\programacion\macroreemplazos\normalizar.h
+

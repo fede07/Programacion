@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1620514828 source:c:\users\fede0\documents\programacion\alumnosempleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumEmpl.h"
+
+1620513488 c:\users\fede0\documents\programacion\alumnosempleados\alumempl.h
+

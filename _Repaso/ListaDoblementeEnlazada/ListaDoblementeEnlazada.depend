@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1624557731 source:c:\users\fede0\documents\programacion\listadoblementeenlazada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDoblementeEnlazada.h"
+
+1624982236 source:c:\users\fede0\documents\programacion\listadoblementeenlazada\listadoblementeenlazada.c
+	"ListaDoblementeEnlazada.h"
+	<stdlib.h>
+	<string.h>
+
+1624982218 c:\users\fede0\documents\programacion\listadoblementeenlazada\listadoblementeenlazada.h
+
+1624557731 source:c:\users\fede0\documents\programacion\_repaso\listadoblementeenlazada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDoblementeEnlazada.h"
+
+1626187368 c:\users\fede0\documents\programacion\_repaso\listadoblementeenlazada\listadoblementeenlazada.h
+

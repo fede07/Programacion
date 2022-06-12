@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1618346891 source:c:\users\fede0\documents\programacion\intercambiotest\main.c
+	<stdio.h>
+	<stdlib.h>
+	"punteros.h"
+
+1618347142 source:c:\users\fede0\documents\programacion\intercambiotest\punteros.c
+	<stdio.h>
+	"punteros.h"
+
+1618347238 c:\users\fede0\documents\programacion\intercambiotest\punteros.h
+

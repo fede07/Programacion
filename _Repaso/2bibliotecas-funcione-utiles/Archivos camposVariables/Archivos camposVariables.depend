@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1620442891 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\loom\archivos camposvariables\camposnovariables.c
+
+1620446247 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\loom\archivos camposvariables\main.c
+	<stdio.h>
+	<stdlib.h>
+	"camposNoVariables.h"
+
+1620446327 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\loom\archivos camposvariables\camposnovariables.h
+
+1622774486 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\archivos camposvariables\main.c
+	<stdio.h>
+	<stdlib.h>
+	"camposVariables.h"
+
+1620616759 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\archivos camposvariables\camposvariables.c
+	<stdio.h>
+	<string.h>
+	"camposVariables.h"
+
+1620582827 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\archivos camposvariables\camposvariables.h
+

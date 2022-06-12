@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1626126534 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\listadoble\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaDoble.h"
+
+1626126316 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\listadoble\listadoble.c
+	<stdlib.h>
+	<string.h>
+	"listaDoble.h"
+
+1626126316 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\listadoble\listadoble.h
+

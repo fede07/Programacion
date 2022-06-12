@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1620520387 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\normaliza\main.c
+	<stdio.h>
+	<stdlib.h>
+	"normaliza.h"
+
+1619488997 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\normaliza\normaliza.h
+
+1620520368 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\normaliza\normaliza.c
+	"normaliza.h"
+	<stdio.h>
+	<strings.h>
+
+1623364805 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\normalizar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"normaliza.h"
+
+1623363581 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\normalizar\normaliza.h
+
+1623364906 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\normalizar\normaliza.c
+	"normaliza.h"
+	<stdio.h>
+	<strings.h>
+

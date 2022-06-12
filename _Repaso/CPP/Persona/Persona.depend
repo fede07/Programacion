@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1624724075 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\nueva carpeta\tcp-cpp-2021-1-m\persona\empleadobuilder.cpp
+	"EmpleadoBuilder.h"
+
+1624724075 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\nueva carpeta\tcp-cpp-2021-1-m\persona\empleadobuilder.h
+	"PersonaBuilder.h"
+	"Empleado.h"
+
+1624724075 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\nueva carpeta\tcp-cpp-2021-1-m\persona\personabuilder.h
+	"../Cadena/Cadena.h"
+	"../Fecha/Fecha.h"
+	"Persona.h"
+
+1624724075 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\nueva carpeta\tcp-cpp-2021-1-m\cadena\cadena.h
+	<iostream>
+	<vector>
+	"../Fecha/Fecha.h"
+
+1624724075 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\nueva carpeta\tcp-cpp-2021-1-m\fecha\fecha.h
+	<iostream>
+
+1624918208 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\nueva carpeta\tcp-cpp-2021-1-m\persona\persona.h
+	<fstream>
+	"../Cadena/Cadena.h"
+	"../Fecha/Fecha.h"
+
+1624920004 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\nueva carpeta\tcp-cpp-2021-1-m\persona\empleado.h
+	"Persona.h"
+
+1624920004 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\nueva carpeta\tcp-cpp-2021-1-m\persona\personabuilder.cpp
+	"PersonaBuilder.h"
+
+1624724075 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\nueva carpeta\tcp-cpp-2021-1-m\persona\personaexception.cpp
+	"PersonaException.h"
+
+1624724075 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\nueva carpeta\tcp-cpp-2021-1-m\persona\personaexception.h
+	"../Cadena/Cadena.h"
+

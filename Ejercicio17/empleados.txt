@@ -1,0 +1,8 @@
+10|Juan Perez|100.00
+30|Maria Benitez|200.00
+35|Emilio Garcia|100.00
+37|Florencia Massa|300.00
+50|Flavio Gomez|200.00
+70|Julieta Beltran|200.00
+80|Mariana Gauna|150.00
+100|Lorena Babuin|150.00

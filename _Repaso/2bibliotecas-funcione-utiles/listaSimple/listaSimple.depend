@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1626645366 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\listasimple\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaSimple.h"
+
+1626645405 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\listasimple\listasimple.h
+
+1626645380 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\listasimple\listasimple.c
+	<stdlib.h>
+	<string.h>
+	"listaSimple.h"
+

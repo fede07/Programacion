@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1621625655 source:c:\users\fede0\documents\programacion\memoriadinamica\memdinamica.c
+	"memDinamica.h"
+	<stdlib.h>
+	<string.h>
+
+1621622012 c:\users\fede0\documents\programacion\memoriadinamica\memdinamica.h
+
+1621625891 source:c:\users\fede0\documents\programacion\memoriadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"memDinamica.h"
+	<string.h>
+

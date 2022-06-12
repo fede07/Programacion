@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622418420 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\pilaestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1622235546 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\pilaestatica\pila.c
+	<strings.h>
+	"pila.h"
+
+1622418456 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\pilaestatica\pila.h
+	<stdio.h>
+

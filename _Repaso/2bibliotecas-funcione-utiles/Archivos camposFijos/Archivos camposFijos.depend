@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622769356 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\archivos camposfijos\camposfijos.c
+	<stdio.h>
+	<string.h>
+	"camposfijos.h"
+
+1622772140 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\archivos camposfijos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"camposfijos.h"
+
+1622769356 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\archivos camposfijos\camposfijos.h
+

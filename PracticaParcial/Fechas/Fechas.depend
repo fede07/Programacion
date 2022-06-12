@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623275791 source:c:\users\fede0\documents\programacion\practicaparcial\fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+
+1623275966 source:c:\users\fede0\documents\programacion\practicaparcial\fechas\fechas.c
+	"fechas.h"
+
+1623274827 c:\users\fede0\documents\programacion\practicaparcial\fechas\fechas.h
+

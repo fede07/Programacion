@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1624652330 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\recursividad\recursividad.c
+	"recursividad.h"
+
+1624654595 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\recursividad\recursividad.h
+
+1624652428 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\recursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"recursividad.h"
+
+1624991659 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\recursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"recursividad.h"
+
+1624991712 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\recursividad\recursividad.h
+

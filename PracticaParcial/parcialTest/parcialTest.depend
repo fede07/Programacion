@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1623173381 source:c:\users\fede0\documents\programacion\practicaparcial\parcialtest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1623106292 source:c:\users\fede0\documents\programacion\practicaparcial\parcialtest\funciones.c
+	"funciones.h"
+	<string.h>
+
+1623107609 c:\users\fede0\documents\programacion\practicaparcial\parcialtest\funciones.h
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,9 @@
+Pepito Feliz|12365678|d|99.9999
+Pepita Rica|420|r|400
+|25|n|1
+Pepito Vacio||v|0
+Feliz|PepitoIsHere|d|99.9999999
+Marito Feliz|12|d|yo
+Pepito Soltero|65|so|99.9999999
+1546165|48|a|10
+Pepito triste

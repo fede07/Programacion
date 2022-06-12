@@ -1,0 +1,6 @@
+#ifndef LOTESDEPRUEBA_H_INCLUDED
+#define LOTESDEPRUEBA_H_INCLUDED
+
+int crearLoteDePrueba(FILE** pf);
+
+#endif // LOTESDEPRUEBA_H_INCLUDED

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1623357017 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\c++\fecha\main.cpp
+	<iostream>
+	"Fecha.h"
+	"FechaException.h"
+
+1623356799 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\c++\fecha\src\fecha.cpp
+	"Fecha.h"
+	"FechaException.h"
+
+1623356815 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\c++\fecha\include\fecha.h
+	<iostream>
+
+1623283166 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\c++\fecha\include\fechaexception.h
+	<string>
+
+1623283100 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\c++\fecha\src\fechaexception.cpp
+	"FechaException.h"
+
+1623357017 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\c++\fechac++\main.cpp
+	<iostream>
+	"Fecha.h"
+	"FechaException.h"
+
+1623356815 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\c++\fechac++\include\fecha.h
+	<iostream>
+
+1623283166 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\c++\fechac++\include\fechaexception.h
+	<string>
+
+1623356799 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\c++\fechac++\src\fecha.cpp
+	"Fecha.h"
+	"FechaException.h"
+
+1623283100 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\c++\fechac++\src\fechaexception.cpp
+	"FechaException.h"
+

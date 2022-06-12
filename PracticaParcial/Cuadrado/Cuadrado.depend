@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1627941761 source:c:\users\fede0\documents\programacion\practicaparcial\cuadrado\cuadrado.cpp
+	"cuadrado.h"
+
+1627941992 c:\users\fede0\documents\programacion\practicaparcial\cuadrado\cuadrado.h
+	<iostream>
+
+1627941800 source:c:\users\fede0\documents\programacion\practicaparcial\cuadrado\main.cpp
+	<iostream>
+	"cuadrado.h"
+

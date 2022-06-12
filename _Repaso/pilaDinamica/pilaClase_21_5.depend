@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1622229966 source:c:\users\fede0\documents\programacion\pilaclase_21_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaDinamica.h"
+
+1622227492 c:\users\fede0\documents\programacion\pilaclase_21_5\piladinamica.h
+
+1622227483 source:c:\users\fede0\documents\programacion\pilaclase_21_5\piladinamica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilaDinamica.h"
+

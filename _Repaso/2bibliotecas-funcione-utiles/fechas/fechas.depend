@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623275624 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\fechas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fechas.h"
+
+1623275694 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\fechas\fechas.c
+	"fechas.h"
+
+1623275555 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\fechas\fechas.h
+

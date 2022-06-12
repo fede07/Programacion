@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1623180983 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\1p -1cuatri-cacho\prog_c1_parcial_1_entregable\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parcial.h"
+
+1623181006 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\1p -1cuatri-cacho\prog_c1_parcial_1_entregable\c\parcial.h
+	<stdio.h>
+
+1623181069 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\1p -1cuatri-cacho\prog_c1_parcial_1_entregable\c\parcial.c
+	"parcial.h"
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1621820936 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\zmatrizdinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"zMatrizDinamica.h"
+
+1621820936 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\zmatrizdinamica\zmatrizdinamica.h
+
+1621820789 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\zmatrizdinamica\zmatrizdinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"zMatrizDinamica.h"
+
+1621654308 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\zmatrizdinamica - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"zMatrizDinamica.h"
+
+1621654284 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\zmatrizdinamica - copia\zmatrizdinamica.h
+
+1621701574 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\zmatrizdinamica - copia\zmatrizdinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"zMatrizDinamica.h"
+
+1621820936 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\zmatrizdinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"zMatrizDinamica.h"
+
+1621820936 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\zmatrizdinamica\zmatrizdinamica.h
+

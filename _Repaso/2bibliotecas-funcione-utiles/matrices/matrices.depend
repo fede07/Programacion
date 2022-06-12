@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1622751283 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\matrices\matrices.c
+	<stdio.h>
+	"matrices.h"
+
+1622751187 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\matrices\matrices.h
+
+1622751243 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1625944003 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\matrices\matrices.c
+	<stdio.h>
+	"matrices.h"
+
+1625943727 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\matrices\matrices.h
+
+1625943976 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\2bibliotecas-funcione-utiles\matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+

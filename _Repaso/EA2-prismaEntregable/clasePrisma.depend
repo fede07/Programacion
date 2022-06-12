@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1623368991 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\ea\ea2-entregable\ea2-prismaentregable\main.cpp
+	"main.h"
+
+1593035810 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\ea\ea2-entregable\ea2-prismaentregable\main.h
+	<iostream>
+	"Prisma.h"
+
+1623369919 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\ea\ea2-entregable\ea2-prismaentregable\prisma.h
+	<iostream>
+	<string>
+
+1623369826 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\1parciales-edas\ea\ea2-entregable\ea2-prismaentregable\prisma.cpp
+	"Prisma.h"
+

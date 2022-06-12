@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1627762706 source:c:\users\fede0\documents\programacion\practicaparcial\cuadradocolorfinal\cuadradocolor.cpp
+	"cuadradoColor.h"
+
+1627762082 c:\users\fede0\documents\programacion\practicaparcial\cuadradocolorfinal\cuadradocolor.h
+	<iostream>
+	<string>
+
+1627762426 source:c:\users\fede0\documents\programacion\practicaparcial\cuadradocolorfinal\main.cpp
+	<iostream>
+	"cuadradoColor.h"
+

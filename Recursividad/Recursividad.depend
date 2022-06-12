@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1624977806 source:c:\users\fede0\documents\programacion\recursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"recursividad.h"
+
+1626194159 c:\users\fede0\documents\programacion\recursividad\recursividad.h
+	<stdio.h>
+
+1624977776 source:c:\users\fede0\documents\programacion\recursividad\recursividad.c
+	"recursividad.h"
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1622699912 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\ordenarconpila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1622700284 c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\ordenarconpila\pila.h
+
+1622698240 source:c:\users\pc\onedrive - ministerio de educacion ciencia y tecnologia\escritorio\programacion\2021\ordenarconpila\pila.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"pila.h"
+
+1622700410 source:c:\users\fede0\documents\programacion\ordenarconpila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1622700284 c:\users\fede0\documents\programacion\ordenarconpila\pila.h
+
+1622698240 source:c:\users\fede0\documents\programacion\ordenarconpila\pila.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"pila.h"
+
